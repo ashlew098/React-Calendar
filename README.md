@@ -1,4 +1,4 @@
 # React-Calendar
 
-Written By Ashley Lewis & Collin Cashio
+Written By Collin Cashio
 
